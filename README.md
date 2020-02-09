@@ -5,4 +5,4 @@ SCREENSHOT DE LA TORRE MERCADO YANICK:
 SCREENSHOT HERNÁNDEZ MELCHOR ISRAEL:
 ![2020-02-08 (1)](https://user-images.githubusercontent.com/60724032/74092413-fa166200-4a88-11ea-9994-e1113b007f2a.png)
 SCREESHOT HERNÁNDEZ LITZY YAZMIN 
-Screenshot Hernandez Bueno Litzy Yazmin](https://user-images.githubusercontent.com/60713872/74095003-0366f500-4ab0-11ea-96ca-0adbd4c47af0.png)
+[Screenshot Hernandez Bueno Litzy Yazmin](https://user-images.githubusercontent.com/60713872/74095003-0366f500-4ab0-11ea-96ca-0adbd4c47af0.png)
