@@ -6,4 +6,5 @@ SCREENSHOT HERNÁNDEZ MELCHOR ISRAEL:
 ![2020-02-08 (1)](https://user-images.githubusercontent.com/60724032/74092413-fa166200-4a88-11ea-9994-e1113b007f2a.png)
 SCREENSHOT HERNÁNDEZ BUENO LITZY YAZMIN
 ![Screenshot Hernandez Bueno Litzy Yazmin](https://user-images.githubusercontent.com/60713872/74095071-07474700-4ab1-11ea-8039-e390a7cbcb20.png)
+EN EL SIGUIENTE LINK SE ENCUENTRA EL RESUMEN LLAMADO "CONCEPTO DE ALGORITMO"
 [Concepto de algoritmo.docx](https://github.com/litzybueno/Resumen/files/4176440/Concepto.de.algoritmo.docx)
