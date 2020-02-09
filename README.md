@@ -7,4 +7,4 @@ SCREENSHOT HERNÁNDEZ MELCHOR ISRAEL:
 SCREENSHOT HERNÁNDEZ BUENO LITZY YAZMIN
 ![Screenshot Hernandez Bueno Litzy Yazmin](https://user-images.githubusercontent.com/60713872/74095071-07474700-4ab1-11ea-8039-e390a7cbcb20.png)
 
-[Concepto de algoritmo.docx](https://github.com/litzybueno/Screenshot-/files/4176407/Concepto.de.algoritmo.docx)
+[Concepto de algoritmo.docx](https://github.com/litzybueno/Resumen/files/4176440/Concepto.de.algoritmo.docx)
